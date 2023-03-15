@@ -4,7 +4,7 @@
   <img src="banner_data_science.png" >
 </p>
 
-# Rodrigo Schammass
+# Rodrigo Canário
 <sub>*Data Scientist*</sub>
 
 Professional with a extensive experience in customer service and sales and, also passionate about technologies. Last year, I finished my studies in Data Science and I could develop some projects. 
